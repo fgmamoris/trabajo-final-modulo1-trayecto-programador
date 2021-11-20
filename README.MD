@@ -101,7 +101,7 @@ _Correr el programa_
 ![validacion](/images/validacion.png)
 ##### Funcion tipo de cobertura
 ![funcionTipoDeCobertura](/images/funcionTipoDeCobertura.png)
-![tipoDeCobertura](/images/tipoDeCobertura.png)
+![tipoDeCobertura](/images/tipoCobertura.png)
 ##### Funcion para imprimir la poliza
 ![imprimirPoliza](/images/imprimirPoliza.png)
 ![poliza](/images/poliza.png)
